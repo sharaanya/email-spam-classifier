@@ -1,2 +1,1 @@
-# car-price-predictor
-To predict the price of an used car in the market.
+It classifies an email as spam or not.
